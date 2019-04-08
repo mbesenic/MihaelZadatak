@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\bin\Debug\MihaelZadatak.exe.config
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\bin\Debug\MihaelZadatak.exe
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\bin\Debug\MihaelZadatak.pdb
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.Form1.resources
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.Properties.Resources.resources
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.exe
+C:\Users\foi.LABOS\Desktop\MihaelZadatak\MihaelZadatak\obj\Debug\MihaelZadatak.pdb
